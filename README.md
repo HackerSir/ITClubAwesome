@@ -1,4 +1,4 @@
-# ClubAwesome
+# ITClubAwesome
 一個關於資訊社群的集散地
 
 歡迎全台資訊社群加入此清單
