@@ -9,7 +9,7 @@
     * 亞洲大學─亞洲白帽駭客社團
     * [興大附中─電腦研習社](https://www.facebook.com/ASHCHComputingResearchClub/)
     * [中興大學─資訊科學研習社](https://www.facebook.com/it.nchu/)
-    * [明道中學資訊社](https://www.facebook.com/mdbrainstorm/)
+    * [明道中學─資訊社](https://www.facebook.com/mdbrainstorm/)
     * [台中一中─電腦資訊研習社](https://www.facebook.com/tcfshcirc/)
     * [台中一中─數位創作研習社](https://www.facebook.com/tcfshDDC/)
     * [台中二中─電腦研習社](https://www.facebook.com/csc241/)
