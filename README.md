@@ -60,8 +60,8 @@
     * 淡江大學─資訊工程及資訊安全研習社
 * 新竹
     * 新竹高中─軟體研究社
-
 * 桃園
+    * [中央大學─NCtfU 中央CTF暨資訊安全研究讀書會](https://www.facebook.com/nctfu)
     * 中央大學─網路開源社
     * 中央大學─NCU babies hacker
     * 武陵高中─資訊社
